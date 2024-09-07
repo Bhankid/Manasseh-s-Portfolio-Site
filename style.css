@@ -255,6 +255,7 @@ small {
 }
 
 .about-item a {
+  font-size: 1rem;
     text-decoration: none;
     color: hsla(230, 100%, 55%, 0.783);
 }
@@ -498,7 +499,7 @@ textarea {
       right: 0;
       width: 90vw;
       height: 100vh;
-      background-color: hsla(230, 90%, 8%, 0.918);
+       background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(1, 2, 19, 0.5));
       backdrop-filter: blur(70px);
       -webkit-backdrop-filter: blur(70px);
       z-index: 1000;
