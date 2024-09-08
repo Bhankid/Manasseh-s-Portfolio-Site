@@ -32,6 +32,7 @@ h1 span {
   justify-content: center;
   gap: 20px;
   padding: 20px;
+  margin-block: 40px;
 }
 
 .card {
